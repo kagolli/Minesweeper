@@ -1,0 +1,1 @@
+Run the minesweeper game by running the Game.java class.
